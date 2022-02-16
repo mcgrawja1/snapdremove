@@ -1,3 +1,5 @@
+#!/bin/sh
+
 #Remove snap because we already have apt and it messes up the drive allocations https://techwiser.com/remove-snap-ubuntu/
 
 sudo snap list
